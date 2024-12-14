@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor web há 12 anos e hoje atualmente, domino a linguagem PHP e Golang.</p>
+<p align="left">Sou desenvolvedor web há 12 anos e hoje atualmente, domino a linguagem PHP/VUEJS e Golang.</p>
 
 ###
 
